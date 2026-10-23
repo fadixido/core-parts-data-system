@@ -1,1 +1,9 @@
-{{"app_version":"1.0.0","build_number":1,"data_version":1,"release_notes":"First release - Full compatibility data for screens, batteries, connectors, ICs, glass","download_url_android":"","download_url_windows":"","force_update":false}
+{
+    "app_version": "1.0.0",
+    "build_number": 1,
+    "data_version": 1,
+    "release_notes": "First release - Full compatibility data",
+    "download_url_android": "",
+    "download_url_windows": "",
+    "force_update": false
+}
