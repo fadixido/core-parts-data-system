@@ -4617,6 +4617,18 @@
       "Redmi Turbo 4"
     ]
   },
+
+{
+    "brand": "Xiaomi",
+    "category": "cat_screens",
+    "subCategory": "",
+    "partName": "Screen",
+    "compatibleDevices": [
+      "POCO X7 PRO",
+      "Redmi Turbo Fadi Abu Fadda"
+    ]
+  },
+  
   {
     "brand": "infinix + Tecno + itel",
     "category": "cat_screens",
